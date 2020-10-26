@@ -1,0 +1,8 @@
+@font-face {
+	font-family: IndieFlower;
+	src: url("fonts/IndieFlower.ttf") format("ttf"), url("fonts/IndieFlower.woff") format("woff"), url("fonts/IndieFlower.woff2") format("woff2");
+}
+h1 {
+	font-family: IndieFlower;
+
+}
